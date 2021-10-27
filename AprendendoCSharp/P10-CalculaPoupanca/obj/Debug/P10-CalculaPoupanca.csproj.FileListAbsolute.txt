@@ -1,0 +1,6 @@
+C:\Users\mauri\source\repos\Alura\AprendendoCSharp\P10-CalculaPoupanca\bin\Debug\P10-CalculaPoupanca.exe.config
+C:\Users\mauri\source\repos\Alura\AprendendoCSharp\P10-CalculaPoupanca\bin\Debug\P10-CalculaPoupanca.exe
+C:\Users\mauri\source\repos\Alura\AprendendoCSharp\P10-CalculaPoupanca\bin\Debug\P10-CalculaPoupanca.pdb
+C:\Users\mauri\source\repos\Alura\AprendendoCSharp\P10-CalculaPoupanca\obj\Debug\P10-CalculaPoupanca.csproj.CoreCompileInputs.cache
+C:\Users\mauri\source\repos\Alura\AprendendoCSharp\P10-CalculaPoupanca\obj\Debug\P10-CalculaPoupanca.exe
+C:\Users\mauri\source\repos\Alura\AprendendoCSharp\P10-CalculaPoupanca\obj\Debug\P10-CalculaPoupanca.pdb

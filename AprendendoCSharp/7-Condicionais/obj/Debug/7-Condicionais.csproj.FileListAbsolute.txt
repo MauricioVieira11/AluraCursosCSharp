@@ -1,0 +1,6 @@
+C:\Users\mauri\source\repos\Alura\AprendendoCSharp\7-Condicionais\bin\Debug\7-Condicionais.exe.config
+C:\Users\mauri\source\repos\Alura\AprendendoCSharp\7-Condicionais\bin\Debug\7-Condicionais.exe
+C:\Users\mauri\source\repos\Alura\AprendendoCSharp\7-Condicionais\bin\Debug\7-Condicionais.pdb
+C:\Users\mauri\source\repos\Alura\AprendendoCSharp\7-Condicionais\obj\Debug\7-Condicionais.csproj.CoreCompileInputs.cache
+C:\Users\mauri\source\repos\Alura\AprendendoCSharp\7-Condicionais\obj\Debug\7-Condicionais.exe
+C:\Users\mauri\source\repos\Alura\AprendendoCSharp\7-Condicionais\obj\Debug\7-Condicionais.pdb

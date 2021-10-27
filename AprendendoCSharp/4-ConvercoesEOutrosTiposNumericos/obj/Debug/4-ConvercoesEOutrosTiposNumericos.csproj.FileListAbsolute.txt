@@ -1,0 +1,6 @@
+C:\Users\mauri\source\repos\Alura\AprendendoCSharp\4-ConvercoesEOutrosTiposNumericos\bin\Debug\4-ConvercoesEOutrosTiposNumericos.exe.config
+C:\Users\mauri\source\repos\Alura\AprendendoCSharp\4-ConvercoesEOutrosTiposNumericos\bin\Debug\4-ConvercoesEOutrosTiposNumericos.exe
+C:\Users\mauri\source\repos\Alura\AprendendoCSharp\4-ConvercoesEOutrosTiposNumericos\bin\Debug\4-ConvercoesEOutrosTiposNumericos.pdb
+C:\Users\mauri\source\repos\Alura\AprendendoCSharp\4-ConvercoesEOutrosTiposNumericos\obj\Debug\4-ConvercoesEOutrosTiposNumericos.csproj.CoreCompileInputs.cache
+C:\Users\mauri\source\repos\Alura\AprendendoCSharp\4-ConvercoesEOutrosTiposNumericos\obj\Debug\4-ConvercoesEOutrosTiposNumericos.exe
+C:\Users\mauri\source\repos\Alura\AprendendoCSharp\4-ConvercoesEOutrosTiposNumericos\obj\Debug\4-ConvercoesEOutrosTiposNumericos.pdb

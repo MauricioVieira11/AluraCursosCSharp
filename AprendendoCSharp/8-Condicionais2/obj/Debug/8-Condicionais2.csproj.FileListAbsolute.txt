@@ -1,0 +1,6 @@
+C:\Users\mauri\source\repos\Alura\AprendendoCSharp\8-Condicionais2\bin\Debug\8-Condicionais2.exe.config
+C:\Users\mauri\source\repos\Alura\AprendendoCSharp\8-Condicionais2\bin\Debug\8-Condicionais2.exe
+C:\Users\mauri\source\repos\Alura\AprendendoCSharp\8-Condicionais2\bin\Debug\8-Condicionais2.pdb
+C:\Users\mauri\source\repos\Alura\AprendendoCSharp\8-Condicionais2\obj\Debug\8-Condicionais2.csproj.CoreCompileInputs.cache
+C:\Users\mauri\source\repos\Alura\AprendendoCSharp\8-Condicionais2\obj\Debug\8-Condicionais2.exe
+C:\Users\mauri\source\repos\Alura\AprendendoCSharp\8-Condicionais2\obj\Debug\8-Condicionais2.pdb
