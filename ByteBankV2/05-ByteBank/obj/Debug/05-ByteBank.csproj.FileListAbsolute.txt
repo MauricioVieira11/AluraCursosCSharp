@@ -1,0 +1,7 @@
+C:\Users\mauri\source\repos\Alura\ByteBank\05-ByteBank\bin\Debug\05-ByteBank.exe.config
+C:\Users\mauri\source\repos\Alura\ByteBank\05-ByteBank\bin\Debug\05-ByteBank.exe
+C:\Users\mauri\source\repos\Alura\ByteBank\05-ByteBank\bin\Debug\05-ByteBank.pdb
+C:\Users\mauri\source\repos\Alura\ByteBank\05-ByteBank\obj\Debug\05-ByteBank.csproj.AssemblyReference.cache
+C:\Users\mauri\source\repos\Alura\ByteBank\05-ByteBank\obj\Debug\05-ByteBank.csproj.CoreCompileInputs.cache
+C:\Users\mauri\source\repos\Alura\ByteBank\05-ByteBank\obj\Debug\05-ByteBank.exe
+C:\Users\mauri\source\repos\Alura\ByteBank\05-ByteBank\obj\Debug\05-ByteBank.pdb
